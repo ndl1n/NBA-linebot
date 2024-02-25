@@ -1,0 +1,435 @@
+{
+    "type": "bubble",
+    "size": "giga",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "客隊",
+                  "weight": "bold",
+                  "align": "center"
+                },
+                {
+                  "type": "image",
+                  "align": "center",
+                  "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh.wikipedia.org%2Fzh-tw%2FFile%3ALos_Angeles_Lakers_logo.svg&psig=AOvVaw3FADhHeoadb3Pv8ibWK-1u&ust=1707294521192000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjV3OylloQDFQAAAAAdAAAAABAE"
+                },
+                {
+                  "type": "text",
+                  "text": "0-0",
+                  "align": "center"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "separator",
+                  "margin": "xxl",
+                  "color": "#ffffff"
+                },
+                {
+                  "type": "separator",
+                  "margin": "md",
+                  "color": "#ffffff"
+                },
+                {
+                  "type": "text",
+                  "offsetTop": "xxl",
+                  "align": "center",
+                  "weight": "bold",
+                  "size": "xl",
+                  "text": "100"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "separator",
+                  "margin": "xxl",
+                  "color": "#ffffff"
+                },
+                {
+                  "type": "separator",
+                  "margin": "md",
+                  "color": "#ffffff"
+                },
+                {
+                  "type": "text",
+                  "text": "100",
+                  "offsetTop": "xxl",
+                  "align": "center",
+                  "weight": "bold",
+                  "size": "xl"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "主隊",
+                      "align": "center",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "image",
+                      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh.wikipedia.org%2Fzh-tw%2F%25E9%2587%2591%25E5%25B7%259E%25E5%258B%2587%25E5%25A3%25AB&psig=AOvVaw3vPZF31a5Im-lEM1eL6sp4&ust=1707294576317000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjeiIemloQDFQAAAAAdAAAAABAE",
+                      "align": "center"
+                    },
+                    {
+                      "type": "text",
+                      "text": "0-0",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ],
+              "paddingEnd": "none",
+              "cornerRadius": "none"
+            }
+          ],
+          "paddingEnd": "none",
+          "cornerRadius": "none",
+          "paddingTop": "xxl"
+        },
+        {
+          "type": "separator",
+          "margin": "md"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "隊伍",
+                  "weight": "bold",
+                  "margin": "none",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "客隊名",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "主隊名",
+                  "weight": "bold",
+                  "flex": 2
+                }
+              ],
+              "flex": 2
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Q1",
+                  "weight": "bold",
+                  "align": "center",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "align": "center",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Q2",
+                  "weight": "bold",
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Q3",
+                  "flex": 1,
+                  "weight": "bold",
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Q4",
+                  "flex": 1,
+                  "weight": "bold",
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "flex": 1,
+                  "align": "center"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "OT1",
+                  "weight": "bold",
+                  "flex": 1,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "align": "center",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "00",
+                  "align": "center",
+                  "flex": 1
+                }
+              ],
+              "flex": 1
+            }
+          ],
+          "margin": "xxl"
+        },
+        {
+          "type": "separator",
+          "margin": "md"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "數據",
+                  "weight": "bold",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "最佳球員",
+                  "weight": "bold",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "得分",
+                  "weight": "bold",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "籃板",
+                  "weight": "bold",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "助攻",
+                  "weight": "bold",
+                  "flex": 1
+                }
+              ],
+              "flex": 1,
+              "width": "70px"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "客隊",
+                  "align": "center",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "Name",
+                  "weight": "bold",
+                  "align": "center",
+                  "size": "sm",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "align": "center",
+                  "size": "md",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "align": "center",
+                  "size": "md",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "flex": 2
+                }
+              ],
+              "flex": 2
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "主隊",
+                  "weight": "bold",
+                  "align": "center",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "align": "center",
+                  "weight": "bold",
+                  "size": "sm",
+                  "flex": 2,
+                  "text": "Name"
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "align": "center",
+                  "size": "md",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "align": "center",
+                  "size": "md",
+                  "weight": "bold",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "flex": 2
+                }
+              ],
+              "flex": 2
+            }
+          ],
+          "margin": "xxl"
+        },
+        {
+          "type": "separator",
+          "margin": "md"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": []
+    }
+  }

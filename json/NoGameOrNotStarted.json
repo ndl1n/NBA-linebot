@@ -1,0 +1,103 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "客隊",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "align": "center",
+                "url": "https://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png"
+              },
+              {
+                "type": "text",
+                "text": "0-0",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator",
+                "margin": "xxl",
+                "color": "#ffffff"
+              },
+              {
+                "type": "separator",
+                "margin": "md",
+                "color": "#ffffff"
+              },
+              {
+                "type": "text",
+                "offsetTop": "xxl",
+                "align": "center",
+                "weight": "bold",
+                "size": "xxl",
+                "text": "8:00"
+              },
+              {
+                "type": "text",
+                "text": "日期or尚未開始",
+                "offsetTop": "xxl",
+                "weight": "bold",
+                "align": "center",
+                "size": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "主隊",
+                    "align": "center",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://content.sportslogos.net/logos/6/235/full/3152_golden_state_warriors-primary-2020.png",
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "0-0",
+                    "align": "center"
+                  }
+                ]
+              }
+            ],
+            "paddingEnd": "none",
+            "cornerRadius": "none"
+          }
+        ],
+        "paddingEnd": "none",
+        "cornerRadius": "none",
+        "paddingTop": "xxl"
+      }
+    ]
+  }
+}

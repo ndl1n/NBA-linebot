@@ -1,0 +1,965 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "西區 - 西北區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "金塊"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "丹佛金塊",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/234/full/utah_jazz_logo_primary_2023_sportslogosnet-8513.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "爵士"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "猶他爵士",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/232/full/9669_minnesota_timberwolves-primary-2018.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "灰狼"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "明尼蘇達灰狼",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/239/full/9725_portland_trail_blazers-primary-2018.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "拓荒者"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "波特蘭拓荒者",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/2687/full/khmovcnezy06c3nm05ccn0oj2.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "雷霆"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "weight": "bold",
+                      "align": "center",
+                      "text": "奧克拉荷馬城雷霆"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "西區 - 太平洋區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/235/full/3152_golden_state_warriors-primary-2020.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "勇士"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "金州勇士",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_2024_sportslogosnet-7324.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "湖人"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "洛杉磯湖人",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/238/full/phoenix_suns_logo_primary_20143696.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "太陽"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "鳳凰城太陽",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/236/full/los_angeles_clippers_logo_primary_2019_sportslogosnet-3776.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "快艇"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "洛杉磯快艇",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "國王"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "沙加緬度國王",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "西區 - 西南區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "獨行俠"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "達拉斯獨行俠",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/230/full/6830_houston_rockets-primary-2020.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "火箭"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "休士頓火箭",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/231/full/4373_memphis_grizzlies-primary-2019.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "灰熊"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "曼菲斯灰熊",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/4962/full/new_orleans_pelicans_logo_primary_2024_sportslogosnet-9292.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "鵜鶘"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "紐奧良鵜鶘",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "馬刺"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "聖安東尼奧馬刺",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "東區 - 大西洋區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/3786/full/brooklyn_nets_logo_primary_20135043.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "籃網"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "布魯克林籃網",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/216/full/new_york_knicks_logo_primary_2024_sportslogosnet-7170.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "尼克"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "紐約尼克",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "76人"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "費城76人",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/227/full/7024_toronto_raptors-primary-2021.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "暴龍"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "多倫多暴龍",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/213/full/boston_celtics_logo_primary_19977628.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "賽爾提克"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "波士頓賽爾提克",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "東區 - 中區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/221/full/chicago_bulls_logo_primary_19672598.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "公牛"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "芝加哥公牛",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/223/full/detroit_pistons_logo_primary_20185710.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "活塞"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "底特律活塞",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/222/full/cleveland_cavaliers_logo_primary_2023_sportslogosnet-5369.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "騎士"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "克里夫蘭騎士",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "溜馬"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "印第安那溜馬",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/225/full/milwaukee_bucks_logo_primary_20165763.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "公鹿"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "密爾瓦基公鹿",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "東區 - 東南區",
+              "size": "xxl",
+              "align": "start",
+              "weight": "bold"
+            }
+          ]
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/220/full/8190_atlanta_hawks-primary-2021.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "老鷹"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "亞特蘭大老鷹",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "黃蜂"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "夏洛特黃蜂",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "熱火"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "邁阿密熱火",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/217/full/orlando_magic_logo_primary_20117178.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "魔術"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "奧蘭多魔術",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://content.sportslogos.net/logos/6/219/full/5671_washington_wizards-primary-2016.png",
+                      "align": "center",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "巫師"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "華盛頓巫師",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        },
+        "styles": {
+          "body": {
+            "separator": true
+          }
+        }
+      }
+    ]
+  }
