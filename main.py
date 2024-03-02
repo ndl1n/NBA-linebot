@@ -13,7 +13,7 @@ from linebot.v3.messaging import (
     ReplyMessageRequest,
     TextMessage,
     FlexMessage,
-    FlexContainer
+    FlexContainer,
 )
 from linebot.v3.webhooks import (
     MessageEvent,
@@ -72,6 +72,8 @@ def handle_message(event):
             game_info = get_Info(message)
             flex_message_json = json.dumps(game_info) 
             return_message = FlexMessage(alt_text="比賽結果", contents=FlexContainer.from_json(flex_message_json))
+        elif message == '記帳':
+            return_message = TextMessage(text='請問今天賺多少錢ㄚ？')
         else:
             if '+' in message:
                 money = message[1:]
