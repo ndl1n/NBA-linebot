@@ -78,8 +78,11 @@ def getChiname(teamName):
     Returns:
     - str: The Chinese name of the NBA team.
     """
-    Chi_teamname = teamname_to_chi[teamName]
-    return Chi_teamname
+    if teamName in teamname_to_chi:
+        Chi_teamname = teamname_to_chi[teamName]
+        return Chi_teamname
+    else:
+        return "Unknown"
 
 
 def getEngname(teamName):

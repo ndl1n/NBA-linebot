@@ -33,7 +33,7 @@ def get_Info(teamName):
         NBA_homeTeamChiName = getChiname(game['homeTeam']['teamName'])
         NBA_awayTeamChiName = getChiname(game['awayTeam']['teamName'])
         twoteamChiName = [NBA_homeTeamChiName, NBA_awayTeamChiName]
-        if(teamName in twoteamChiName):
+        if(teamName in twoteamChiName and teamName != 'unknown'):
             NBA_game = game
             break
     else:
