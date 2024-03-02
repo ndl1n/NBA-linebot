@@ -8,7 +8,7 @@ NBA-linebot is a Line chatbot designed to provide users with quick access to NBA
    - Users can inquire about the day's NBA game scores.
 
 2. **Detailed Flex Messages:**
-   - Upon clicking the "查詢戰績" option, users are presented with an team Flex Message.
+   - Upon clicking the **查詢戰績** option, users are presented with an team Flex Message.
    - <img src="image/Eastern-Atlantic.jpg" width="15%"> <img src="image/Eastern-Central.jpg" width="15%"> <img src="image/Eastern-Southeast.jpg" width="15%"> <img src="image/Western-Pacific.jpg" width="15%"> <img src="image/Western-Southwest.jpg" width="15%"> <img src="image/Western-Northwest.jpg" width="15%">
 
 3. **Team-Specific Information:**
